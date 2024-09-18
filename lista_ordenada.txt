@@ -1,0 +1,8 @@
+fede:x:1000:1000:fede:/home/fede:/bin/bash
+hplip:x:122:7:HPLIP system user,,,:/run/hplip:/bin/false
+root:x:0:0:root:/root:/bin/bash
+sddm:x:119:127:Simple Desktop Display Manager:/var/lib/sddm:/bin/false
+sync:x:4:65534:sync:/bin:/bin/sync
+tss:x:106:112:TPM software stack,,,:/var/lib/tpm:/bin/false
+vboxadd:x:999:1::/var/run/vboxadd:/bin/false
+whoopsie:x:115:122::/nonexistent:/bin/false
